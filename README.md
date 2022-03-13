@@ -1,5 +1,4 @@
-# SimpleAPI
-.net 6 simple / minimal API example
+# Minimal / Simple RESTful API .net6
 
 Works with the Fetch API frontend https://github.com/mustbebuilt/fetch-minimal-api-demo
 
